@@ -1,0 +1,1 @@
+A know bug is that the Rosette seems to be "squished" vertically and elongated horizonatally. I'm not really sure why this is. The generated verticies _should_ be matimnatically circular but maybe I've neglated something in the math. 
