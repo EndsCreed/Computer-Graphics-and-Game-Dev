@@ -1,0 +1,3 @@
+/home/Faarie/Documents/Homework/CNA/Comp Graphics and Dev/OpenGL-CLion/cmake-build-debug/CMakeFiles/OpenGL_CLion.dir
+/home/Faarie/Documents/Homework/CNA/Comp Graphics and Dev/OpenGL-CLion/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/Faarie/Documents/Homework/CNA/Comp Graphics and Dev/OpenGL-CLion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
