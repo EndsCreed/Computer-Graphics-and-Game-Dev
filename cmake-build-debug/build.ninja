@@ -66,7 +66,7 @@ build CMakeFiles/OpenGL_CLion.dir/main.cpp.o: CXX_COMPILER__OpenGL_CLion_unscann
 
 build OpenGL_CLion: CXX_EXECUTABLE_LINKER__OpenGL_CLion_Debug CMakeFiles/OpenGL_CLion.dir/main.cpp.o | /usr/lib64/libglfw.so.3.3 /usr/lib64/libglut.so /usr/lib64/libXi.so /usr/lib64/libGLX.so /usr/lib64/libOpenGL.so
   FLAGS = -g
-  LINK_LIBRARIES = /usr/lib64/libglfw.so.3.3  /usr/lib64/libglut.so  /usr/lib64/libXi.so  /usr/lib64/libGLX.so  /usr/lib64/libOpenGL.so
+  LINK_LIBRARIES = /usr/lib64/libglfw.so.3.3  /usr/lib64/libglut.so  -lGLU  /usr/lib64/libXi.so  /usr/lib64/libGLX.so  /usr/lib64/libOpenGL.so
   OBJECT_DIR = CMakeFiles/OpenGL_CLion.dir
   POST_BUILD = :
   PRE_LINK = :

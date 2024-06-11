@@ -12,4 +12,5 @@ add_executable(OpenGL_CLion main.cpp)
 
 target_link_libraries(OpenGL_CLion /usr/lib64/libglfw.so.3.3)
 target_link_libraries(OpenGL_CLion GLUT::GLUT)
+target_link_libraries(OpenGL_CLion GLU)
 target_link_libraries(OpenGL_CLion OpenGL::GL)
