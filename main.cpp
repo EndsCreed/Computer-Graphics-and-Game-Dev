@@ -1,8 +1,6 @@
 #include <GL/glut.h>
 #include <complex>
 #include <vector>
-#include <thread>
-#include <iostream>
 
 // Window dimensions
 const int WIDTH = 1200;
